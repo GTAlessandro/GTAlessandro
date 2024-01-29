@@ -2,8 +2,6 @@
 
 <h3>Currently learning cybersecurity on tryhackme and rootme</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/nanou123654.png" alt="TryHackMe">
-
 
 <h3>Used languages</h3>
 
